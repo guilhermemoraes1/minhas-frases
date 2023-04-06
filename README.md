@@ -1,2 +1,3 @@
 # minhas-frases
- projeto que guarda todas as minha frases/poemas favoritos
+
+Projeto em python que guarda todas as minha frases/poemas favoritos

@@ -1,7 +1,7 @@
 import random # importa o módulo random para gerar números pseudo-aleatórios
 
 # minhas frases armazenadas em uma lista
-frases = ['0', '1', '2', '3', 4]
+frases = []
 
 while True:
   print(f"{'*'*70}")
