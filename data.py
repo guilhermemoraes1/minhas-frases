@@ -1,21 +1,39 @@
 # minhas frases armazenadas em uma lista
-frases = ["Seja paciente e confie no processo, você não come o fruto no mesmo dia que planta a semente.", "Que você consiga todas as coisas que ninguém sabe que você está tentando.",
-"A disciplina vai te levar a lugares onde a motivação não chega.", "Não precisa ser muito, só precisa ser constante.",
-"Se você tentou e falhou, parabéns. Tem gente que nem tenta.", "Aquele que não estuda pelo futuro que quer, terá que aceitar o futuro que vier.", 
-"O grande problema dos garotos é que noventa por cento deles são meio que qualquer coisa. Se a gente vestisse e higienizasse os caras direitinho, se conseguisse colocar uma postura decente neles, fazer com que ouvissem as garotas e não fossem uns idiotas, eles seriam totalmente aceitáveis.", 
-"Nas melhores conversas, nem nos lembramos do que falamos, só nos lembramos da sensação.","Qualquer um pode olhar para você, mas é muito raro encontrar quem veja o mesmo mundo que o seu.",
-"Fazer as coisas nunca é tão bom quanto imaginá-las.","Os homens embarcam nos trens, mas já não sabem mais o que procuram.", 
-"A vida é uma tempestade, meu amigo. Um dia você está tomando sol e no dia seguinte o mar te lança contra as rochas. O que faz de você um homem é o que você faz quando a tempestade vem.", 
-"O mais feliz dos felizes é aquele que faz os outros felizes.", "É preciso que eu suporte duas ou três larvas se quiser conhecer as borboletas.", 
+frases = ["Seja paciente e confie no processo, você não come o fruto no mesmo dia que planta a semente.", 
+"Que você consiga todas as coisas que ninguém sabe que você está tentando.",
+"A disciplina vai te levar a lugares onde a motivação não chega.", 
+"Não precisa ser muito, só precisa ser constante.",
+"Se você tentou e falhou, parabéns. Tem gente que nem tenta.", 
+"Aquele que não estuda pelo futuro que quer, terá que aceitar o futuro que vier.",  
+"Nas melhores conversas, nem nos lembramos do que falamos, só nos lembramos da sensação.",
+"Qualquer um pode olhar para você, mas é muito raro encontrar quem veja o mesmo mundo que o seu.",
+"Fazer as coisas nunca é tão bom quanto imaginá-las.",
+"Os homens embarcam nos trens, mas já não sabem mais o que procuram.", 
+"O mais feliz dos felizes é aquele que faz os outros felizes.", 
+"É preciso que eu suporte duas ou três larvas se quiser conhecer as borboletas.", 
 "É bem mais difícil julgar a si mesmo do que julgar os outros. Se consegues fazer um bom julgamento de ti, és um verdadeiro sábio.", 
-"Faça algo hoje pelo o qual o seu eu do futuro irá lhe agradecer.", "Não deseje que as coisas sejam mais fáceis; deseje que você seja melhor.", 
-"Jamais considere seus estudos como uma obrigação, mas como uma oportunidade invejável para aprender a conhecer a influência libertadora da beleza do reino do espírito, para seu próprio prazer pessoal e para proveito da comunidade à qual seu futuro trabalho pertencer.", 
-"Conhecimento não é aquilo que você sabe, mas o que você faz com o aquilo que você sabe.", "A verdadeira motivação vem de realização, desenvolvimento pessoal, satisfação no trabalho e reconhecimento.", 
-"Se quiser ser feliz, amarre-se a uma meta, não a pessoas ou a coisas.", "Grandes obras são executadas não pela força mas pela perseverança.", 
-"É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada.", "Você nunca sabe que resultados virão da sua ação, mas se você nunca fizer nada, não existirão resultados.", 
-"Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo.", "As raízes dos estudos são amargas, mas seus frutos são doces.", 
-"A força vem de fazer coisas que você achava que não podia.", "Você atingirá o sucesso quando apresentar com orgulho as cicatrizes que adquiriu ao longo da sua jornada.", 
-"Eu não estou aqui para ser mediano, estou aqui para ser o melhor;", "Há cinco degraus para se alcançar a sabedoria: calar, ouvir, lembrar, sair, estudar.",
+"Faça algo hoje pelo o qual o seu eu do futuro irá lhe agradecer.", 
+"Não deseje que as coisas sejam mais fáceis; deseje que você seja melhor.",  
+"Conhecimento não é aquilo que você sabe, mas o que você faz com o aquilo que você sabe.",
+ "A verdadeira motivação vem de realização, desenvolvimento pessoal, satisfação no trabalho e reconhecimento.", 
+"Se quiser ser feliz, amarre-se a uma meta, não a pessoas ou a coisas.", 
+"Grandes obras são executadas não pela força mas pela perseverança.", 
+"É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada.", 
+"Você nunca sabe que resultados virão da sua ação, mas se você nunca fizer nada, não existirão resultados.", 
+"Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo.", 
+"As raízes dos estudos são amargas, mas seus frutos são doces.", 
+"A força vem de fazer coisas que você achava que não podia.", 
+"Você atingirá o sucesso quando apresentar com orgulho as cicatrizes que adquiriu ao longo da sua jornada.", 
+"Eu não estou aqui para ser mediano, estou aqui para ser o melhor;", 
+"Há cinco degraus para se alcançar a sabedoria: calar, ouvir, lembrar, sair, estudar.",
+'''"O grande problema dos garotos é que noventa por cento deles são meio que qualquer coisa.
+Se a gente vestisse e higienizasse os caras direitinho, se conseguisse colocar uma postura decente neles, fazer com que ouvissem as garotas e não fossem uns idiotas, eles seriam totalmente aceitáveis."''',
+'''A vida é uma tempestade, meu amigo. 
+Um dia você está tomando sol e no dia seguinte o mar te lança contra as rochas. 
+O que faz de você um homem é o que você faz quando a tempestade vem.''',
+'''Jamais considere seus estudos como uma obrigação, 
+mas como uma oportunidade invejável para aprender a conhecer a influência libertadora da beleza do reino do espírito, 
+para seu próprio prazer pessoal e para proveito da comunidade à qual seu futuro trabalho pertencer.''',
 '''Não sei… Se a vida é curta
 Ou longa demais pra nós,
 Mas sei que nada do que vivemos
@@ -41,7 +59,8 @@ Nem longa demais,
 Mas que seja intensa,
 Verdadeira, pura… Enquanto durar''', 
 '''Errei mais de 9.000 cestas e perdi quase 300 jogos.
-Em 26 diferentes finais de partidas fui encarregado de jogar a bola que venceria o jogo... e falhei. Eu tenho uma história repleta de falhas e fracassos em minha vida.
+Em 26 diferentes finais de partidas fui encarregado de jogar a bola que venceria o jogo... e falhei. 
+Eu tenho uma história repleta de falhas e fracassos em minha vida.
 E é exatamente por isso que sou um sucesso.''',
 '''Não te deixes destruir…
 Ajuntando novas pedras

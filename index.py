@@ -1,4 +1,4 @@
-from data import frases # importa a minha lista em outro file(arquivo)
+from data import frases # importa a minha lista de outro file(arquivo)
 import random # importa o módulo random para gerar números pseudo-aleatórios
 
 while True:
