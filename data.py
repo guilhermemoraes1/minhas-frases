@@ -27,13 +27,31 @@ frases = ["Seja paciente e confie no processo, você não come o fruto no mesmo 
 "Eu não estou aqui para ser mediano, estou aqui para ser o melhor;", 
 "Há cinco degraus para se alcançar a sabedoria: calar, ouvir, lembrar, sair, estudar.",
 '''"O grande problema dos garotos é que noventa por cento deles são meio que qualquer coisa.
-Se a gente vestisse e higienizasse os caras direitinho, se conseguisse colocar uma postura decente neles, fazer com que ouvissem as garotas e não fossem uns idiotas, eles seriam totalmente aceitáveis."''',
+Se a gente vestisse e higienizasse os caras direitinho, se conseguisse colocar uma postura decente neles, 
+fazer com que ouvissem as garotas e não fossem uns idiotas, eles seriam totalmente aceitáveis."''',
 '''A vida é uma tempestade, meu amigo. 
 Um dia você está tomando sol e no dia seguinte o mar te lança contra as rochas. 
 O que faz de você um homem é o que você faz quando a tempestade vem.''',
 '''Jamais considere seus estudos como uma obrigação, 
 mas como uma oportunidade invejável para aprender a conhecer a influência libertadora da beleza do reino do espírito, 
 para seu próprio prazer pessoal e para proveito da comunidade à qual seu futuro trabalho pertencer.''',
+'''Sua primeira redação vai ser horrível, mas a milésima será ótima.
+Seu primeiro dia de estudo será disperso, o milésimo será focado.
+De início a sua rotina será exausta, depois não vai conseguir ficar sem.
+Tudo é sobre começar, melhorar, e recomeçar.''',
+'''Não estude por que você precisa...
+estude porque conhecimento é poder.
+Estude porque nunca poderão tirar isso de você.
+Estude porque você quer conhecer mais.
+Estude porque te torna melhor.
+Estude porque assim você cresce. Estude porque conhecimento é liberdade.''',
+'''Nao esqueça que você pode:
+Começar tarde…
+Começar de novo… 
+Ter muitas duvidas…
+Treme de medo…
+Falhar muitas vezes…
+E ainda ter sucesso!''',
 '''Não sei… Se a vida é curta
 Ou longa demais pra nós,
 Mas sei que nada do que vivemos
