@@ -18,17 +18,36 @@ frases = ["Seja paciente e confie no processo, você não come o fruto no mesmo 
  "A verdadeira motivação vem de realização, desenvolvimento pessoal, satisfação no trabalho e reconhecimento.", 
 "Se quiser ser feliz, amarre-se a uma meta, não a pessoas ou a coisas.", 
 "Grandes obras são executadas não pela força mas pela perseverança.", 
-"É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada.", 
+"É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada.",
+"Você não chegou lá ainda, mas olha o quanto você cresceu...",
+"Oportunidade não surgem, somos nós que criamos.",
+"O primeiro passo é sempre o mais difícil!",
+"O sucesso é apenas disciplina praticada todos os dias.",
+"",
 "Você nunca sabe que resultados virão da sua ação, mas se você nunca fizer nada, não existirão resultados.", 
 "Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo.", 
 "As raízes dos estudos são amargas, mas seus frutos são doces.", 
 "A força vem de fazer coisas que você achava que não podia.", 
-"Você atingirá o sucesso quando apresentar com orgulho as cicatrizes que adquiriu ao longo da sua jornada.", 
+"Você atingirá o sucesso quando apresentar com orgulho as cicatrizes que adquiriu ao longo da sua jornada.",
+"O seu sonho merece a sua dedicação.",
+"Você pode ainda não estar aonde gostaria, mas certamente não está onde tudo começou.",
 "Eu não estou aqui para ser mediano, estou aqui para ser o melhor;", 
+"Não gaste seu tempo procurando os problemas. Viva seu dia tentando resolvê-los e aproveitando tudo o que te acontecer.",
 "Há cinco degraus para se alcançar a sabedoria: calar, ouvir, lembrar, sair, estudar.",
-'''"O grande problema dos garotos é que noventa por cento deles são meio que qualquer coisa.
+'''O grande problema dos garotos é que noventa por cento deles são meio que qualquer coisa.
 Se a gente vestisse e higienizasse os caras direitinho, se conseguisse colocar uma postura decente neles, 
-fazer com que ouvissem as garotas e não fossem uns idiotas, eles seriam totalmente aceitáveis."''',
+fazer com que ouvissem as garotas e não fossem uns idiotas, eles seriam totalmente aceitáveis.''',
+'''Guarde isso:
+6 meses de extremo foco podem mudar sua vida.''',
+'''Existe uma versão sua no futuro que está super orgulhoso de 
+tudo que você vem construindo dia após dia, sem desistir.''',
+'''O teu caminho é feito de altos e baixos, curvas e contra curvas.
+Mas não sabes que cada passo te reserva.
+O segredo é não desistir.''',
+'''Alguns dias são facéis, outros dias são difíceis.
+Mas sejam facéis ou difíceis, o únco jeito de termina é começando.''',
+'''Não tenha medo do caminho...
+Tenha medo de não caminhar.''',
 '''A vida é uma tempestade, meu amigo. 
 Um dia você está tomando sol e no dia seguinte o mar te lança contra as rochas. 
 O que faz de você um homem é o que você faz quando a tempestade vem.''',
@@ -39,12 +58,28 @@ para seu próprio prazer pessoal e para proveito da comunidade à qual seu futur
 Seu primeiro dia de estudo será disperso, o milésimo será focado.
 De início a sua rotina será exausta, depois não vai conseguir ficar sem.
 Tudo é sobre começar, melhorar, e recomeçar.''',
+'''NÃO EXISTE MILAGRE
+SENTE. ESTUDE. REVISE.
+TREINE. ERRE. ACERTE.
+LEIA. ASSISTA AULA.
+PERCA. CHORE. ESTUDE.
+INSISTA. PASSE. CHORE''',
+'''Não há limite para o conhecimento que podemos adquirir e as habilidades que podemos desenvolver.
+A jornada de aprendizado é desafiadora, mas também gratificante, e nos proporciona a oportunidade de crescer pessoal e profissionalmente.
+O aprendizado não é apenas sobre a aquisição de informações, mas também sobre a construção de habilidades e capacidades para aplicá-las em situações diversas e complexas.
+Quando persistimos e nos dedicamos a um objetivo, podemos superar obstáculos e alcançar resultados incríveis.
+Por isso, nunca deixe de aprender e de buscar o seu melhor, pois o conhecimento é uma das ferramentas mais valiosas que podemos ter em nossas vidas.''',
+'''Tudo vai dar certo sim!
+Mas você tem que ser a primeira pessoa a acreditar...''',
+'''Algumas coisas não saem como a gente planeja, mas nos precisamos manter a calma.
+O tempo não é nosso inimigo. As coisas irão acontecer na hora certa.''',
 '''Não estude por que você precisa...
 estude porque conhecimento é poder.
 Estude porque nunca poderão tirar isso de você.
 Estude porque você quer conhecer mais.
 Estude porque te torna melhor.
-Estude porque assim você cresce. Estude porque conhecimento é liberdade.''',
+Estude porque assim você cresce. 
+Estude porque conhecimento é liberdade.''',
 '''Nao esqueça que você pode:
 Começar tarde…
 Começar de novo… 
