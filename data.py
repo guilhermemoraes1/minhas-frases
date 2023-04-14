@@ -66,7 +66,8 @@ PERCA. CHORE. ESTUDE.
 INSISTA. PASSE. CHORE''',
 '''Não há limite para o conhecimento que podemos adquirir e as habilidades que podemos desenvolver.
 A jornada de aprendizado é desafiadora, mas também gratificante, e nos proporciona a oportunidade de crescer pessoal e profissionalmente.
-O aprendizado não é apenas sobre a aquisição de informações, mas também sobre a construção de habilidades e capacidades para aplicá-las em situações diversas e complexas.
+O aprendizado não é apenas sobre a aquisição de informações,
+mas também sobre a construção de habilidades e capacidades para aplicá-las em situações diversas e complexas.
 Quando persistimos e nos dedicamos a um objetivo, podemos superar obstáculos e alcançar resultados incríveis.
 Por isso, nunca deixe de aprender e de buscar o seu melhor, pois o conhecimento é uma das ferramentas mais valiosas que podemos ter em nossas vidas.''',
 '''Tudo vai dar certo sim!
