@@ -1,5 +1,24 @@
 # minhas frases armazenadas em uma lista
 frases = ["Seja paciente e confie no processo, você não come o fruto no mesmo dia que planta a semente.", 
+"Motivação é aquilo que te faz começar. Hábito é o que te faz continuar.",
+"Posso ainda não ter chegado onde eu queria, mas estou mais perto do que ontem.",
+"Você é mais corajoso do que acredita, mais forte do que parece e mais inteligente do que pensa.",
+"Educação é o passaporte para o futuro, porque o amanhã pertence àqueles que se preparam para ele hoje.",
+"Descobri que, quanto mais eu trabalho, mais sorte pareço ter.",
+"O lucro do nosso estudo é tornarmo-nos melhores e mais sábios.",
+"Você sabe o que fazer e o necessário, porém só dá valor quando escuta do outro.",
+"Dê boas-vindas àqueles que podem fazer você melhorar. O processo é mútuo pois os homens aprendem enquanto ensinam.",
+"Ontem foi ontem. Tenta de novo hoje.",
+"Por que quer tanto isto? Porque disseram que eu não conseguiria.",
+"O primeiro passo não te leva para onde você quer ir, mas te tira de onde está.",
+"Progresso é progresso não importa a velocidade.",
+"Não existe elevador para o sucesso. Você tem que usar as escadas.",
+"Sonhos exigem paciência no resultado e dedicação no processo.",
+"Transforma as pedras em que tropeças nas pedras da tua escada.",
+"Você está sendo a pessoa que precisa ser para ter a vida que deseja ter?",
+"Um dia sem estudar é um dia a mais entre você e seu objetivo.",
+"O mistério da existência humana não reside apenas em permanecer vivo, mas em encontrar algo por que valha a pena viver.",
+"Aprenda a ter disciplina, a motivação pode te deixar em alguns momentos.",
 "Que você consiga todas as coisas que ninguém sabe que você está tentando.",
 "A disciplina vai te levar a lugares onde a motivação não chega.", 
 "Não precisa ser muito, só precisa ser constante.",
@@ -144,7 +163,30 @@ deixa algo de ti,…
 do teu minuto,
 da tua hora,
 do teu dia,
-da tua vida.”''', 
+da tua vida.''',
+'''Não é fazendo pedidos 
+a cada estrela cadente 
+que seus sonhos 
+vão virar realidade. 
+
+é tomando as rédeas 
+de seu próprio destino 
+que seus sonhos 
+vão virar realidade.
+
+portanto,
+se esforce.
+se esforce mais.
+se esforce ainda mais.
+
+- faça acontecer.''',
+'''Não é sobre vencer, é sobre não desistir.
+Se você tem um sonho lute por ele.
+Existe uma disciplina para paixão, 
+e não é sobre quantas vezes você é rejeitado ou caiu e foi derrotado,
+é sobre quantas vezes você levantou com coragem e seguiu.''',
+'''O ato de pensar que precisa começar a fazer algo é mais difícil do que fazer esse algo,
+se você conseguir superar os primeiros 5 minutos de resistência, você consegue finalizar qualquer tarefa''',
 '''O tempo é algo que não volta atrás.
 Por isso plante seu jardim e decore sua alma,
 Ao invés de esperar que alguém lhe traga flores.''', 
